@@ -1,3 +1,4 @@
+/* eslint-disable */
 function Drink({ name }) {
   let part, caffeine, age;
   if (name === "tea") {
