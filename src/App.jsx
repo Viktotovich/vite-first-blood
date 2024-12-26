@@ -1,9 +1,10 @@
 import "./App.css";
+import ColorChange from "./react-practice/state-practice";
 
 function App() {
   return (
     <>
-      <p>Here is a list of food I really like</p>
+      <ColorChange></ColorChange>
     </>
   );
 }

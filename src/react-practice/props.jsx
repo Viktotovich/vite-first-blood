@@ -1,3 +1,4 @@
+/*eslint-disable*/
 import { getImageUrl } from "./utils.js";
 
 //missing in props validation ??
