@@ -1,10 +1,9 @@
 import "./App.css";
-import ColorChange from "./react-practice/state-practice";
-
+import Tracker from "./react-practice/state/state-bg-change";
 function App() {
   return (
     <>
-      <ColorChange></ColorChange>
+      <Tracker></Tracker>
     </>
   );
 }
