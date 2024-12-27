@@ -1,9 +1,9 @@
 import "./App.css";
-import Tracker from "./react-practice/state/state-bg-change";
+import Person from "./react-practice/more-on-state/more-on-state-practice";
 function App() {
   return (
     <>
-      <Tracker></Tracker>
+      <Person></Person>
     </>
   );
 }

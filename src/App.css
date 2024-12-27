@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+input {
+  margin: 1rem;
+}
+
+button {
+  margin: 1rem 0 0 0;
+}
